@@ -1,3 +1,7 @@
+#Important Notice
+the original repository is 
+https://github.com/68rohitd/Human-Resource-management
+
 # Human Resource Management System 
 [Application Demo](https://limitless-bastion-82171.herokuapp.com/#/)
 

@@ -29,7 +29,7 @@ export default class LoanDetailsCard extends Component {
             <h6>Amount: </h6>
           </div>
           <div className="col">
-            <h6>₹{amount}</h6>
+            <h6>DT{amount}</h6>
           </div>
         </div>
 

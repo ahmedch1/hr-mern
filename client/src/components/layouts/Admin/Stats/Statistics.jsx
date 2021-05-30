@@ -96,13 +96,13 @@ export default class Statistics extends Component {
                         <div className="col ">
                           <Card
                             label="Salary Expenses"
-                            data={`₹ ${this.state.totalExpenses}`}
+                            data={`DT ${this.state.totalExpenses}`}
                           />
                         </div>
                         <div className="col ">
                           <Card
                             label="Loan Expenses"
-                            data={`₹ ${this.state.loanExpenses}`}
+                            data={`DT ${this.state.loanExpenses}`}
                           />
                         </div>
                         <div className="col">

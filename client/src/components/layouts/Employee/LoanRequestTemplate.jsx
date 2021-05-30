@@ -94,7 +94,7 @@ export default class LoanRequestTemplate extends Component {
 
                   <div className="col">
                     <small>Loan Amount:</small>
-                    <h6>₹ {amount}</h6>
+                    <h6>DT {amount}</h6>
                   </div>
                 </div>
 

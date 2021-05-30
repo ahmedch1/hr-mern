@@ -34,7 +34,7 @@ export default class SalaryStructure extends Component {
                 <h6 className="text-left">Basic Pay</h6>
               </div>
               <div className="col">
-                <h6 className="text-right">₹ {basicPay}</h6>
+                <h6 className="text-right">DT {basicPay}</h6>
               </div>
             </div>
 
@@ -45,7 +45,7 @@ export default class SalaryStructure extends Component {
                 <h6 className="text-left">Medical Allowance</h6>
               </div>
               <div className="col">
-                <h6 className="text-right">₹ {medicalAllowance}</h6>
+                <h6 className="text-right">DT {medicalAllowance}</h6>
               </div>
             </div>
 
@@ -56,7 +56,7 @@ export default class SalaryStructure extends Component {
                 <h6 className="text-left">Travel Allowance</h6>
               </div>
               <div className="col">
-                <h6 className="text-right">₹ {travelAllowance}</h6>
+                <h6 className="text-right">DT {travelAllowance}</h6>
               </div>
             </div>
 
@@ -85,7 +85,7 @@ export default class SalaryStructure extends Component {
                 <h6 className="text-left">Bonus</h6>
               </div>
               <div className="col">
-                <h6 className="text-right">₹ {bonus}</h6>
+                <h6 className="text-right">DT {bonus}</h6>
               </div>
             </div>
 
@@ -96,7 +96,7 @@ export default class SalaryStructure extends Component {
                 <h4 className="text-left">Gross Salary</h4>
               </div>
               <div className="col">
-                <h4 className="text-right">₹ {salary}</h4>
+                <h4 className="text-right">DT {salary}</h4>
               </div>
             </div>
           </div>

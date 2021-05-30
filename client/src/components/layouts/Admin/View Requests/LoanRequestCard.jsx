@@ -91,7 +91,7 @@ export default class LoanRequestCard extends Component {
                   <h6>Loan Amount: </h6>
                 </div>
                 <div className="col pl-0">
-                  <h6 className="text-right">₹{amount}</h6>
+                  <h6 className="text-right">DT{amount}</h6>
                 </div>
               </div>
 
